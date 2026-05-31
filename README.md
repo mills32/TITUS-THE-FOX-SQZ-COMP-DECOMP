@@ -6,8 +6,12 @@ Two python scripts created with claude:
 - python_sqz_lzw: compress/decompress SQZ files. BMP to SQZ; SQZ to bmp; BIN to SQZ; SQZ to BIN;
 
 Inyected custom title (TITREEGA.SQZ):
+
 <img src="titus1.png">
 
+
 Patched EXE (custom EGA palette):
+
 <img src="titus2.png">
+
 <img src="titus3.png">
