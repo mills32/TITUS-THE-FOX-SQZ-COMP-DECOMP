@@ -9,4 +9,5 @@ Inyected custom title (TITREEGA.SQZ):
 <img src="titus1.png">
 
 Patched EXE (custom EGA palette):
-<img src="titus2.png"> <img src="titus3.png">
+<img src="titus2.png">
+<img src="titus3.png">
